@@ -9,5 +9,5 @@ This mod requires both <a href="https://github.com/ago1024/WurmServerModLauncher
 # Features
 ## Sound timer module.
 
- - Fix sounds not playing when the player is completing the action too quickly. This way a certain sound will play every 5 seconds, regardless of how many actions were completed in that time.
+ - Fix sounds not playing when the player is completing the action too quickly. This way a certain sound will play when an action is started, and then every 5 seconds, regardless of how many actions were completed in that time.
  - Inspired by <a href="https://forum.wurmonline.com/index.php?/topic/190633-playing-sound-on-action-timer-tick/">this post.</a>
